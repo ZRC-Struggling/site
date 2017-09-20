@@ -19,7 +19,6 @@ Once initialised, here's what your project folder will look like:
 ├── package.json
 ├── scaffolds
 ├── source
-|   ├── _drafts
 |   └── _posts
 └── themes
 ```
